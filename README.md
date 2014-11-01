@@ -1,0 +1,1 @@
+This is repository for Software Engineering project an Android Game "Crazy Minions". 
